@@ -19,18 +19,21 @@ Java is an Object Oriented Programming Language. Java is first released by Sun M
 ### Java Internals
 
 ##### 1. Java Virtual Machine (JVM)
-      Java virtual machine is a machine that run the Java Bytecodes. JVM does not understand java source code .java file must compile to obtained .class file which contains         byte code.
+
+Java virtual machine is a machine that run the Java Bytecodes. JVM does not understand java source code .java file must compile to obtained .class file which contains         byte code.
       
       Java Code ---> Java Compiler ---> byte code ---> JVM
         .java                             .class         Windows, Linux, Mac OS  
      
 ##### 2. Java Runtime Environment (JRE)
-       It provides the libraries, JVM and other components to run applets and applications written in the java programming lanaguage.
+
+It provides the libraries, JVM and other components to run applets and applications written in the java programming lanaguage.
                 JRE = JVM + Set of Libraries + other additional files.
-       JRE does not contain tools and utility such as compilers or debuggers for developing applets and application.
+JRE does not contain tools and utility such as compilers or debuggers for developing applets and application.
        
 ##### 3. Java Development Kit (JDK)
-       JDK is a superset of the JRE and contains everything that in the JRE, plus tools such as the compilers and debuggers neccessary for developing applets and application.
+       
+JDK is a superset of the JRE and contains everything that in the JRE, plus tools such as the compilers and debuggers neccessary for developing applets and application.
        
        JDK = JRE + Development Tools
 
