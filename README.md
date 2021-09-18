@@ -1,6 +1,7 @@
 # Java-Programming
 
-    *** Do While Loop ***
+    ## Do While Loop 
+    
     do {
          statement(s)
     } while (expression);
